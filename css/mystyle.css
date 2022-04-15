@@ -1,0 +1,26 @@
+.container{
+    padding: 1rem;
+    background-color: rgb(197, 233, 238);
+    border: 2px solid #fff;
+    color:#fff;
+    text-align: center;
+}
+
+.col{
+    padding: 1rem;
+    background-color: rgb(231, 226, 232);
+    border: 2px solid #fff;
+    color: #fff;
+    text-align: center;
+}
+
+[class*="con"]{
+    padding: 1rem;
+    background-color: #cbc1c1;
+    border: 2px solid #fff;
+    color: #fff;
+    text-align: center;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
